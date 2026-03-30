@@ -11,7 +11,8 @@
 </div>
 
 
-### Linguagens e Tecnologias  💻 --
+### 
+Languages ​​and Technologies  💻 --
 
 
 <img
