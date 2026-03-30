@@ -2,8 +2,9 @@
 
 **'Engenharia de Software'**
 
-Software Engineering student by FAG (CENTRO UNIVERSITÁRIO DA FUNDAÇÃO ASSIS GURGACZ). Basic level command of programming languages. Technology enthusiast, always looking to learn more about the world of programming!
-
+Software Engineering student by FAG (CENTRO UNIVERSITÁRIO DA FUNDAÇÃO ASSIS GURGACZ). 
+ Basic level command of programming languages.
+ Technology enthusiast, always looking to learn more about the world of programming!
 #### Redes Sociais 🤳🏻 --
 <div> 
   <a href="https://instagram.com/murilo_fink" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
