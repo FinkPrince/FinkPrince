@@ -1,9 +1,9 @@
 ## Murilo Ramos Fink 👨🏼‍💻
 
 **'Engenharia de Software'**
-<p>Software Engineering student by FAG (CENTRO UNIVERSITÁRIO DA FUNDAÇÃO ASSIS GURGACZ).
-<p> Basic level command of programming languages.
-<p>Technology enthusiast, always looking to learn more about the world of programming!
+<p>- Software Engineering student by FAG (CENTRO UNIVERSITÁRIO DA FUNDAÇÃO ASSIS GURGACZ).
+<p>- Basic level command of programming languages.
+<p>- Technology enthusiast, always looking to learn more about the world of programming!
 
 #### Social Media 🤳🏻 --
 <div> 
