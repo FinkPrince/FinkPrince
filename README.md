@@ -2,7 +2,7 @@
 
 **'Engenharia de Software'**
 
-Estudante de Engenharia de Software pela FAG (CENTRO UNIVERSITÁRIO DA FUNDAÇÃO ASSIS GURGACZ). Domínio de nível básico de linguagens de programação. Entusiasta da tecnologia, sempre buscando aprender mais sobre o mundo da programação!
+Software Engineering student by FAG (CENTRO UNIVERSITÁRIO DA FUNDAÇÃO ASSIS GURGACZ). Basic level command of programming languages. Technology enthusiast, always looking to learn more about the world of programming!
 
 #### Redes Sociais 🤳🏻 --
 <div> 
