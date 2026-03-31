@@ -10,10 +10,7 @@
 </div>
 
 
-### Languages ​​and Technologies  💻 --
-<br>
-<hr style="width: 50%; border: 1px solid #30363d;">
-
+### Languages ​​and Technologies  💻  <hr style="width: 50%; border: 1px solid #30363d;">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,idea,c" />
