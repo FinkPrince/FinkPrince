@@ -20,7 +20,5 @@
   </a>
 </p>
 
-<br>
-<hr style="width: 50%; border: 1px solid #30363d;">
 
           
