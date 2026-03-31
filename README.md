@@ -9,7 +9,7 @@
   <a href="https://instagram.com/murilo_fink" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
+<p align="center">
 ### Languages ​​and Technologies  💻  <hr style="width: 50%; border: 1px solid #30363d;">
 <p align="center">
   <a href="https://skillicons.dev">
