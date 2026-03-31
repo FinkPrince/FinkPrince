@@ -18,7 +18,8 @@
   </a>
 </p>
 
-<br clear="both">
+<br>
+<hr>
 ### 
 ___
 <div align="leftr">
