@@ -1,6 +1,6 @@
 ## Murilo Ramos Fink 👨🏼‍💻
 
-**'Engenharia de Software'**
+**' Software Engineering'**
 <p>- Software Engineering student by FAG (CENTRO UNIVERSITÁRIO DA FUNDAÇÃO ASSIS GURGACZ).
 <p>- Technology enthusiast, always looking to learn more about the world of programming!
 
