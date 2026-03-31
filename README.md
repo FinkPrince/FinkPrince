@@ -18,8 +18,6 @@
   </a>
 </p>
 
-
-<br><br>
 <br clear="both">
 ### 
 ___
