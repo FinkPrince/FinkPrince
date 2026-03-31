@@ -11,7 +11,7 @@
 
 
 ### Languages ​​and Technologies  💻  <hr style="width: 50%; border: 1px solid #30363d;">
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,idea,c" />
   </a>
