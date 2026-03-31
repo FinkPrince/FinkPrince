@@ -13,63 +13,12 @@
 
 ### Languages ​​and Technologies  💻 --
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,,c++,html,css,js,idea" />
+  </a>
+</p>
 
-<img
-align="left"
-alt="Java"
-title="Java"
-width="70px"
-style="padding-right:15px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-<img 
-align="left"
-alt="\C++"
-title="C++"
-width="70px"
-style="padding-right:15px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
-<img
-align="left"
-alt="\C++"
-title="C++"
-width="70px"
-style="padding-right:15px;"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-
-<img
-align="left"
-alt="Java"
-title="Java"
-width="70px"
-style="padding-right:15px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-<img
-align="left"
-alt="Java"
-title="Java"
-width="70px"
-style="padding-right:15px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img
-align="left"
-alt="Java"
-title="Java"
-width="70px"
-style="padding-right:15px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img
-align="left"
-alt="Java"
-title="Java"
-width="70px"
-style="padding-right:15px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
 
 <br><br>
 <br clear="both">
