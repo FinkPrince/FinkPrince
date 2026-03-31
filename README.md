@@ -11,6 +11,8 @@
 
 
 ### Languages ​​and Technologies  💻 --
+<br>
+<hr style="width: 50%; border: 1px solid #30363d;">
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -20,9 +22,5 @@
 
 <br>
 <hr style="width: 50%; border: 1px solid #30363d;">
-<div align="leftr">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FinkPrince&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-</div>
 
-###
           
